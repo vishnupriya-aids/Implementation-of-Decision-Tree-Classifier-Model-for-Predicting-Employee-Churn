@@ -30,7 +30,7 @@ from sklearn.tree import DecisionTreeClassifier, plot_tree
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 
-file_path =("C:/Users/acer/Downloads/Employee.csv")
+file_path =("C:/Users/Admin/Downloads/Employee.csv")
 df = pd.read_csv(file_path)
 
 
